@@ -4,7 +4,7 @@
 
 ### JavaScript Projects 
 
-[Random Equation Game](michaelroussel.github.io/js-math-game)
+[Random Equation Game](/js-math-game)
 <img src="images/equation-game.png?raw=true"/>
 
 ---
