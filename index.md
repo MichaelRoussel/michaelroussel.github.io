@@ -5,7 +5,7 @@
 ### JavaScript Projects 
 
 [Random Equation Game](michaelroussel.github.io/js-math-game)
-<img src="images/equation-game?raw=true"/>
+<img src="images/equation-game.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
