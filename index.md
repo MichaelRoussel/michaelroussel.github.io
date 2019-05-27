@@ -8,22 +8,17 @@
 <img src="images/equation-game.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Number Guessing Game](https://michaelroussel.github.io/js-guessing-game)
+<img src="images/guessing-game.png?raw=true"/> -->
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Protect Your Hands - a WordPress site](https://protectyourhands.azurewebsites.net/)
+  <img src="images/protect.png?raw=true"/>
+- [Basic Java RPG](https://github.com/MichaelRoussel/RPG)
+  
 
 ---
 
