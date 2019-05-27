@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### JavaScript Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Random Equation Game](/js-math-game)
+<img src="images/equation-game?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
