@@ -1,9 +1,9 @@
 title: Michael Roussel # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: # "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Student at Georgian College 
   <br><br>
-  Second description 
+  Computer Programmer Analyst Program
   <br><br>
   <a href="https://www.linkedin.com/in/michaeljroussel">View My LinkedIn Profile</a> 
   
