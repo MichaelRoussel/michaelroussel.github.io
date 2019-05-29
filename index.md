@@ -8,8 +8,8 @@
 <img src="images/equation-game.png?raw=true"/>
 
 ---
-<!-- [Number Guessing Game](https://michaelroussel.github.io/js-guessing-game)
-<img src="images/guessing-game.png?raw=true"/> -->
+[Number Guessing Game](https://michaelroussel.github.io/js-guessing-game)
+<img src="images/guessing-game.png?raw=true"/>
 
 ---
 
@@ -17,7 +17,7 @@
 
 - [Protect Your Hands - a WordPress site](https://protectyourhands.azurewebsites.net/)
   <img src="images/protect.png?raw=true"/>
-- [Basic Java RPG](https://github.com/MichaelRoussel/RPG)
+- [All repositories](https://github.com/MichaelRoussel)
   
 
 ---
